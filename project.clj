@@ -5,5 +5,5 @@
   :license {:name "The MIT License"
             :url "http://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [com.drewnoakes/metadata-extractor "2.7.0-SNAPSHOT"]
+                 [com.drewnoakes/metadata-extractor "2.7.2"]
                  [clj-http "0.7.2"]])
